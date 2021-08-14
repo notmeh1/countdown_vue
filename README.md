@@ -1,5 +1,7 @@
 # cuenta_regresiva_vue
 
+// Fernando Vargas
+
 ## Project setup
 ```
 npm install
